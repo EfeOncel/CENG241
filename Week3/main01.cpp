@@ -20,6 +20,7 @@ int main() {
 
     cout << *a << endl;  // 100
     cout << *b << endl;  // 20.5
+    cout << x << endl; //?
 
     return 0;
 }
